@@ -1,4 +1,4 @@
-<h1 align="center">Hi there !👋</h1>
+<h1 align="center">Hi there !👋 I myself <b>Jayesh Warhadi !</b></h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Jayesh Warhadi ... <br>from NMIT Pune....<br><br>- 🔭 I’m working as ... <br>- 📚 I'm currently studying ... B.tech CSE<br>- ⚡ In my free time I ... love Coding</p>
+<p align="left">I'm <b>Jayesh Warhadi</b> ... <br>from NMIT Pune....<br><br>- 📚 I'm currently studying ... <b>Computer Science and Engineering</b><br>- ⚡ In my free time I ... love <b>Coding</b></p>
 
 ###
 
