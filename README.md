@@ -12,11 +12,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jayeshwarhadi" target="_blank">
-    <img src="assets/socials/linkedin.png" height="40" alt="linkedin logo"  />
+    <img src="assets/socials/linkedin.png" height="60" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/jayeshwarhadi" target="_blank">
-    <img src="assets/socials/instagram.png" height="40" alt="instagram logo"  /></a>
-  <img src="assets/socials/discord.png" height="40" alt="discord logo"  />
+    <img src="assets/socials/instagram.png" height="60" alt="instagram logo"  /></a>
+  <img src="assets/socials/discord.png" height="60" alt="discord logo"  />
 
 ###
 
@@ -25,17 +25,17 @@
 ###
 
 <div align="center">
-  <img src="assets/skills/html5.png" height="40" alt="html5 logo"  />
+  <img src="assets/skills/html5.png" height="60" alt="html5 logo"  />
   <img width="14" />
-  <img src="assets/skills/css3.png" height="40" alt="css3 logo"  />
+  <img src="assets/skills/css3.png" height="60" alt="css3 logo"  />
   <img width="14" />
-  <img src="assets/skills/cpp.png" height="40" alt="cplusplus logo"  />
+  <img src="assets/skills/cpp.png" height="60" alt="cplusplus logo"  />
   <img width="14" />
-  <img src="assets/skills/c programing.png" height="40" alt="c logo"  />
+  <img src="assets/skills/c programing.png" height="60" alt="c logo"  />
   <img width="14" />
-  <img src="assets/skills/python.png" height="40" alt="python logo"  />
+  <img src="assets/skills/python.png" height="60" alt="python logo"  />
   <img width="14" />
-  <img src="assets/skills/javascript.png" height="40" alt="javascript logo"  />
+  <img src="assets/skills/javascript.png" height="60" alt="javascript logo"  />
 </div>
 
 ###
