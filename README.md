@@ -6,19 +6,17 @@
 
 ###
 
-<p align="left">I'm <b>Jayesh Warhadi</b> ... <br>from NMIT Pune....<br><br>- 📚 I'm currently studying ... <b>Computer Science and Engineering</b><br>- ⚡ In my free time I ... love <b>Coding</b><br>- 🔭 I’m currently working on <a href="https://github.com/jayeshwarhadi/ChessWithC" target="_blank">Chess.C</a><br>- 🌱 I’m currently learning <b>C++ (DSA) , C , F.Y CSE</b><br>- 👨‍💻 All of my projects are available at <a href="https://github.com/jayeshwarhadi" target="_blank">Github Profile</a><br>- 📫 How to reach me <a href="mailto:jayesh.warhadi2005@gmail.com">jayesh.warhadi2005@gmail.com</a></p>
+<p align="left">I'm <b>Jayesh Warhadi</b> ... <br>from NMIT Pune....<br><br>- 📚 I'm currently studying ... <b>Computer Science and Engineering</b><br>- ⚡ In my free time I ... love <b>Coding</b><br>- 🔭 I’m currently working on <a href="https://github.com/jayeshwarhadi/ChessWithC" target="_blank">Chess.C</a><br>- 🌱 I’m currently learning <b>C++ (DSA) , C , F.Y CSE</b><br>- 📫 Reach me by Email <a href="mailto:jayesh.warhadi2005@gmail.com">jayesh.warhadi2005@gmail.com</a></p>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jayeshwarhadi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="assets/socials/linkedin.png" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/jayeshwarhadi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=jaywarh&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=5B6DAE&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
+    <img src="assets/socials/instagram.png" height="40" alt="instagram logo"  /></a>
+  <img src="assets/socials/discord.png" height="40" alt="discord logo"  />
 
 ###
 
@@ -27,17 +25,17 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="assets/skills/html5.png" height="40" alt="html5 logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="assets/skills/css3.png" height="40" alt="css3 logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="assets/skills/cpp.png" height="40" alt="cplusplus logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img src="assets/skills/c programing.png" height="40" alt="c logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="assets/skills/python.png" height="40" alt="python logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="assets/skills/javascript.png" height="40" alt="javascript logo"  />
 </div>
 
 ###
@@ -55,12 +53,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayeshwarhadi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshwarhadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jayeshwarhadi.jayeshwarhadi&"  />
 </div>
 
 ###
