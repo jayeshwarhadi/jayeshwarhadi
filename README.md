@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm <b>Jayesh Warhadi</b> ... <br>from NMIT Pune....<br><br>- 📚 I'm currently studying ... <b>Computer Science and Engineering</b><br>- ⚡ In my free time I ... love <b>Coding</b><br>- 🔭 I’m currently working on <a href="https://github.com/jayeshwarhadi/ChessWithC" target="_blank">Chess.C</a><br>- 🌱 I’m currently learning <b>C++ (DSA) , C , F.Y CSE</b><br>- 📫 Reach me by Email <a href="mailto:jayesh.warhadi2005@gmail.com">jayesh.warhadi2005@gmail.com</a></p>
+<p align="left">I'm <b>Jayesh Warhadi</b> ... <br>from NMIT Pune....<br><br>- 📚 I'm currently studying ... <b>Computer Science and Engineering</b><br>- ⚡ In my free time I ... love <b>Coding</b><br>- 🔭 I’m currently working on <a href="https://github.com/jayeshwarhadi/ChessWithC" target="_blank">Chess.C</a><br>- 🌱 I’m currently learning <b>C++ (DSA) , C , S.Y CSE</b><br>- 📫 Reach me by Email <a href="mailto:jayesh.warhadi2005@gmail.com">jayesh.warhadi2005@gmail.com</a></p>
 
 ###
 
