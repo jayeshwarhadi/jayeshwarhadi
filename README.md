@@ -10,10 +10,9 @@
   <br>from NMIT Pune....<br>
   <br>
   - 📚 I'm currently studying ... <b>Computer Science and Engineering</b><br>- ⚡ In my free time I ... love <b>Coding</b><br>
-  - 🔭 I’m currently working on <a href="https://github.com/jayeshwarhadi/ChessWithC" target="_blank">Chess.C</a> (SideProject)<br>
-  -🔭 I’m currently working on <a href="https://github.com/jayeshwarhadi/PlutonAI" target="_blank">PlutonAI (GenAI Hackathon)</a><br>
-  - 🌱 I’m currently learning <b>C++ (DSA), T.Y CSE</b><br>
-  - 📫 Reach me by Email <a href="mailto:jayesh.warhadi2005@gmail.com">jayesh.warhadi2005@gmail.com</a>
+  - 🔭 I’m currently working on <a href="https://github.com/jayeshwarhadi/jayesh.sh" target="_blank">jayesh.sh</a><br>
+  - 🌱 I’m currently learning <b>Full Stack Web Development, T.Y CSE</b><br>
+  - 📫 Reach me by Email <a href="mailto:jayesh.warhadi2005@gmail.com">jayesh.warhadi@nmiet.edu.in</a>
 </p>
 
 ###
