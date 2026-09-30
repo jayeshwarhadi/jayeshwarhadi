@@ -10,7 +10,7 @@
   <br>from NMIT Pune....<br>
   <br>
   - 📚 I'm currently studying ... <b>Computer Science and Engineering</b><br>- ⚡ In my free time I ... love <b>Coding</b><br>
-  - 😊 Check out my Portfolio <a href="https://jayeshwarhadi.github.io/Portfolio/">By clicking here</a><br>
+  - 😊 Check out my Portfolio <a href="https://jayeshwarhadi.github.io/Portfolio/" target="_blank">By clicking here</a><br>
   - 🔭 I’m currently working on <a href="https://github.com/jayeshwarhadi/jayesh.sh" target="_blank">jayesh.sh</a><br>
   - 🌱 I’m currently learning <b>Full Stack Web Development, T.Y CSE</b><br>
   - 📫 Reach me by Email <a href="mailto:jayesh.warhadi2005@gmail.com">jayesh.warhadi@nmiet.edu.in</a>
